@@ -1,0 +1,32 @@
+{
+  "raccourcis": [
+    {
+      "name": "Fermer la fenêtre",
+      "raccourci": "ALT + F4",
+      "systeme": 1,
+      "path":"",
+      "hide":0
+    },
+    {
+      "name": "C_to_HP",
+      "raccourci": "ALT + E",
+      "systeme": 0,
+      "path": "C:/Users/hgeor/Documents/Scripts/Son/C_to_HP.ps1",
+      "hide":0
+    },
+    {
+      "name": "HP_to_C",
+      "raccourci": "ALT + Z",
+      "systeme": 0,
+      "path": "C:/Users/hgeor/Documents/Scripts/Son/HP_to_C.ps1",
+      "hide":0
+    },
+    {
+      "name": "Shortcut_Manager",
+      "raccourci": "ALT + 1",
+      "systeme": 0,
+      "path": "C:/Users/hgeor/Documents/Projet/Script/Shortcut_Manager/shortcut_manager3.py",
+      "hide":1
+    }
+  ]
+}
