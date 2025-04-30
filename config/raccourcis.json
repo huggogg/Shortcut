@@ -1,0 +1,102 @@
+{
+  "raccourcis": [
+    {
+      "name": "Fermer la fenêtre",
+      "raccourci": "ALT + F4",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Fermer l'onglet actif",
+      "raccourci": "CTRL + W",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Ouvrir un nouvel onglet",
+      "raccourci": "CTRL + T",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Rouvrir le dernier onglet fermé",
+      "raccourci": "CTRL + SHIFT + T",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Basculer en mode plein écran",
+      "raccourci": "ALT + Entrée",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Ouvrir le gestionnaire des tâches",
+      "raccourci": "CTRL + SHIFT + Échap",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Tout sélectionner",
+      "raccourci": "CTRL + A",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Copier",
+      "raccourci": "CTRL + C",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Coller",
+      "raccourci": "CTRL + V",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Couper",
+      "raccourci": "CTRL + X",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "Afficher le contenu du presse-papiers",
+      "raccourci": "Windows + V",
+      "systeme": 1,
+      "path": "",
+      "hide": 0
+    },
+    {
+      "name": "C_to_HP",
+      "raccourci": "ALT + E",
+      "systeme": 0,
+      "path": "C:/Users/hgeor/Documents/Scripts/Son/C_to_HP.ps1",
+      "hide": 0
+    },
+    {
+      "name": "HP_to_C",
+      "raccourci": "ALT + Z",
+      "systeme": 0,
+      "path": "C:/Users/hgeor/Documents/Scripts/Son/HP_to_C.ps1",
+      "hide": 0
+    },
+    {
+      "name": "Shortcut_manager",
+      "raccourci": "ALT + 1",
+      "systeme": 0,
+      "path": "C:/Users/hgeor/Documents/Projet/Script/Shortcut_Manager/shortcut_manager.py",
+      "hide": 0
+    }
+  ]
+}
